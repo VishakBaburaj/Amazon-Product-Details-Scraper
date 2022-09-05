@@ -1,8 +1,8 @@
 # Amazon Product Details Scraper
 ## Libraries
-from selenium import webdriver
-import pandas as pd
-from tqdm import tqdm
+1) from selenium import webdriver
+2) import pandas as pd
+3) from tqdm import tqdm
 
 ## Steps to scrape product names, prices, links, ratings and reviews
 1) Connected to the chromedriver.
