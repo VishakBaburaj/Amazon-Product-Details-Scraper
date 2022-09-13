@@ -5,7 +5,7 @@
 3) from tqdm import tqdm
 
 ## Steps to scrape product names, prices, links, ratings and reviews
-1) Connected to the chromedriver.
+1) Connecting to the chromedriver.
 2) URL for scraping.
 3) Empty dictionary for product names.
 4) Empty dictionary for prices.
